@@ -110,6 +110,26 @@ Voici la liste des différents fichiers proposés dans FREEBSD-0 :
 			<td><b>HEAD.PAS</b>
 			<td>Cette commande permet d'afficher le début d'un fichier texte. Cette commande est un équivalent de UNIX ou Linux.</td>
 		</tr>	
+	        <tr>
+			<td><b>HEXDUMP.PAS</b></td>
+			<td>Cette commande permet d'afficher le contenu d'un fichier en format hexadecimal. Cette commande est inspiré de la commande de Linux.</td>
+		</tr>	
+		<tr>
+			<td><b>HOSTNAME.PAS<b></td>
+			<td>Cette commande permet de retourner le nom de l'hôte.</td>
+		</tr>	
+		<tr>
+			<td><b>LESS.PAS</b></td>
+			<td>Cette commande permet d'afficher un fichier de la fin vers le début.</td>
+		</tr>				
+		<tr>
+			<td><b>LOGNAME.PAS</b></td>
+			<td>Cette commande permet de demander le nom de connexion.</td>
+		</tr>				
+		<tr>
+			<td><b>LOOK.PAS</b></td>
+			<td>Cette commande permet de rechercher les lignes commençant par un texte spécifié.</td>
+		</tr>				
 </table>
 
 <h2>Compilation</h2>
