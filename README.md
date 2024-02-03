@@ -32,7 +32,7 @@ Voici la liste des différents fichiers proposés dans FREEBSD-0 :
 		</tr>  
 		<tr>
 			<td><b>CLEAR.PAS</b></td>
-			<td>Cette commande permet d'effacer l'écran. Cette commande est inspiré UNIX.</td>
+			<td>Cette commande permet d'effacer l'écran.</td>
 		</tr>	
 </table>
 
