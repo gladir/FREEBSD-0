@@ -31,8 +31,28 @@ Voici la liste des différents fichiers proposés dans FREEBSD-0 :
 			<td>Cette commande permet de changer l'interpréteur de commande par défaut.</td>
 		</tr>  
 		<tr>
+			<td><b>CKSUM.PAS</b></td>
+			<td>Cette commande permet d'afficher la sommation de vérification CRC et le nombre d'octets de chaque fichiers. Cette commande est inspiré de Linux.</td>
+		</tr>
+		<tr>
 			<td><b>CLEAR.PAS</b></td>
 			<td>Cette commande permet d'effacer l'écran.</td>
+		</tr>	
+		<tr>
+			<td><b>CP.PAS</b></td>
+			<td>Cette commande permet de copier un fichier. Cette commande est inspiré de la commande UNIX.</td>
+		</tr>	
+		<tr>
+			<td><b>CSPLIT.PAS</b></td>
+			<td>Cette commande permet de séparer un fichier en plusieurs sections déterminé par des lignes de contextes.</td>
+		</tr>	
+	        <tr>
+			<td><b>CUT.PAS</b></td>
+			<td>Cette commande permet de supprimer des sections de chaque ligne des fichiers. Cette commande est inspiré de la commande <a href="https://www.gladir.com/OS/LINUX/cut.htm">cut</a> de Linux.</td>
+		</tr>	
+		<tr>
+			<td><b>DD.PAS</b></td>
+			<td>Cette commande permet de convertir un fichier tant qu'il se copie.</td>
 		</tr>	
 </table>
 
