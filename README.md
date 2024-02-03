@@ -54,6 +54,19 @@ Voici la liste des différents fichiers proposés dans FREEBSD-0 :
 			<td><b>DD.PAS</b></td>
 			<td>Cette commande permet de convertir un fichier tant qu'il se copie.</td>
 		</tr>	
+	        <tr>
+			<td><b>DF.PAS</b></td>
+			<td>Cette commande permet d'afficher l'espace libre sur le système de fichiers. C'est commande est inspiré de Linux et de cygwin.</td>
+		</tr>
+		<tr>
+			<td><b>DIRNAME.PAS</b></td>
+			<td>Cette commande permet de retourner le chemin seulement à partir d'un chemin complet de nom de fichier. Cette commande est un équivalent de UNIX et Linux.</td>
+		</tr>
+  		<tr>
+			<td><b>DU.PAS</b></td>
+			<td>Cette commande permet de comptabilisé l'espace occupé par un répertoire et ses enfants.</td>
+		</tr>
+	
 </table>
 
 <h2>Compilation</h2>
