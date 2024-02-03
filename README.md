@@ -78,6 +78,26 @@ Voici la liste des différents fichiers proposés dans FREEBSD-0 :
 			<td><b>EXPAND.PAS</b></td>
 			<td>Cette commande permet de convertir des tabulations en espaces.</td>
 		</tr>	
+		<tr>
+			<td><b>FALSE.PAS</b></td>
+			<td>Cette commande permet de retourner faux. Cette commande est inspiré de UNIX et Linux.</td>
+		</tr>
+		<tr>
+			<td><b>FILE.PAS</b></td>
+			<td>Cette commande permet de demander le type de fichier. Cette commande est un équivalent de UNIX ou Linux.</td>
+		</tr>	
+		<tr>
+			<td><b>FIND.PAS</b></td>
+			<td>Cette commande permet de rechercher une chaine de caractères dans des fichiers. Cette commande est un équivalent du DOS.</td>
+		</tr>	
+		<tr>
+			<td><b>FMT.PAS</b></td>
+			<td>Cette commande permet de reformater le texte de paragraphe.</td>
+		</tr>
+		<tr>
+			<td><b>FOLD.PAS</b></td>
+			<td>Cette commande permet d''envelopper les lignes d'entrée pour s'adapter à la largeur spécifié.</td>
+		</tr>	
 </table>
 
 <h2>Compilation</h2>
