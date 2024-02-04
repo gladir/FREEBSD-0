@@ -97,6 +97,10 @@ Voici la liste des différents fichiers proposés dans FREEBSD-0 :
 		<tr>
 			<td><b>FOLD.PAS</b></td>
 			<td>Cette commande permet d''envelopper les lignes d'entrée pour s'adapter à la largeur spécifié.</td>
+		</tr>
+		<tr>
+			<td><b>GETENT.PAS</b></td>
+			<td>Cette commande permet de demander les entrées de la base de données administrative.</td>
 		</tr>	
 		<tr>
 			<td><b>GREP.PAS</b></td>
