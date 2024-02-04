@@ -40,7 +40,7 @@ Voici la liste des différents fichiers proposés dans FREEBSD-0 :
 		</tr>	
 		<tr>
 			<td><b>CP.PAS</b></td>
-			<td>Cette commande permet de copier un fichier. Cette commande est inspiré de la commande UNIX.</td>
+			<td>Cette commande permet de copier un fichier.</td>
 		</tr>	
 		<tr>
 			<td><b>CSPLIT.PAS</b></td>
