@@ -154,6 +154,14 @@ Voici la liste des différents fichiers proposés dans FREEBSD-0 :
 			<td><b>OD.PAS</b></td>
 			<td>Cette commande permet d'afficher le contenu d'un fichier selon un format spécifique. Cette commande est un équivalent de UNIX.</td>
 		</tr>				
+		<tr>
+			<td><b>PWD.PAS</b></td>
+			<td>Cette commande permet d'afficher le chemin du répertoire courant. Cette commande est un équivalent de UNIX.</td>
+		</tr>				
+		<tr>
+			<td><b>READELF.PAS</b></td>
+			<td>Cette commande permet d'afficher des informations sur un ELF.</td>
+		</tr>				
 </table>
 
 <h2>Compilation</h2>
