@@ -106,6 +106,10 @@ Voici la liste des différents fichiers proposés dans FREEBSD-0 :
 			<td><b>GREP.PAS</b></td>
 			<td>Cette commande permet d'effectuer des recherches dans des fichiers. Cette commande est un équivalent de UNIX.</td>
 		</tr>	
+		<tr>
+			<td><b>HALT.PAS</b></td>
+			<td>Cette commande permet d'arrêter l'ordinateur.</td>
+		</tr>	
 	        <tr>
 			<td><b>HD.PAS</b></td>
 			<td>Cette commande permet d'afficher le contenu d'un fichier en format hexadecimal. Cette commande est inspiré de la commande HD du compilateur Aztec C86 ou de Linux.</td>
