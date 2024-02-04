@@ -186,6 +186,58 @@ Voici la liste des différents fichiers proposés dans FREEBSD-0 :
 			<td><b>SUM.PAS</b></td>
 			<td>Cette commande permet d'afficher la sommation de chaque fichier.</td>
 		</tr>
+		<tr>
+			<td><b>TAIL.PAS</b></td>
+			<td>Cette commande permet d'afficher la fin d'un fichier texte. Cette commande est un équivalent de UNIX ou Linux.</td>
+		</tr>				
+	        <tr>
+			<td><b>TEE.PAS</b></td>
+			<td>Cette commande permet d'envoyer l'entrée standard vers la sortie standard. Cette commande est un équivalent de UNIX ou Linux.</td>
+		</tr>				
+	        <tr>
+			<td><b>TOUCH.PAS</b></td>
+			<td>Cette commande permet de changer la date et l'heure d'un fichier. Cette commande est un équivalent de UNIX, AIX et Linux.</td>
+	        </tr>
+		<tr>
+			<td><b>TR.PAS</b></td>
+			<td>Cette commande permet d'envoyer le contenu de l'entrée standard vers la sortie standard en effectuant le traitement spécifié.</td>
+		</tr>				
+		<tr>
+			<td><b>TRUE.PAS</b></td>
+			<td>Cette commande permet de retourner vrai. Cette commande est inspiré de UNIX et Linux.</td>
+		</tr>								
+	        <tr>
+			<td><b>UNAME.PAS</b></td>
+			<td>Cette commande permet d'afficher des informations sur le système d'exploitation.</td>
+		</tr>				
+		<tr>
+			<td><b>UNIQ.PAS</b></td>
+			<td>Cette commande permet de sortir le contenu d'un fichier sans duplication du contenu de ses lignes.</td>
+		</tr>
+		<tr>
+			<td><b>UNLINK.PAS</b></td>
+			<td>Cette commande permet de supprimer un lien symbolique.</td>
+		</tr>					
+		<tr>
+			<td><b>VI.PAS</b></td>
+			<td>Cette commande permet de lancer l'éditeur de texte VI.</td>
+		</tr>				
+	        <tr>
+			<td><b>WC.PAS</b></td>
+			<td>Cette commande permet de compter le nombre de mots, de lignes ou de caractères.</td>
+		</tr>				
+		<tr>
+			<td><b>WHICH.PAS</b></td>
+			<td>Cette commande permet de localiser l'emplacement d'une commande.</td>
+		</tr>
+		<tr>
+			<td><b>WHOAMI.PAS</b></td>
+			<td>Cette commande permet de retourner l'utilisateur connecté.</td>
+		</tr>				
+		<tr>
+			<td><b>YES.PAS</b></td>
+			<td>Cette commande permet d'effectuer des répétitions de réponses affirmatives.</td>
+		</tr>				
 </table>
 
 <h2>Compilation</h2>
