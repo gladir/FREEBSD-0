@@ -127,6 +127,10 @@ Voici la liste des différents fichiers proposés dans FREEBSD-0 :
 			<td>Cette commande permet de retourner le nom de l'hôte.</td>
 		</tr>	
 		<tr>
+			<td><b>JOT.PAS</b></td>
+			<td>Cette commande permet d'afficher des données séquentiel ou aléatoire.</td>
+		</tr>
+		<tr>
 			<td><b>LESS.PAS</b></td>
 			<td>Cette commande permet d'afficher un fichier de la fin vers le début.</td>
 		</tr>				
