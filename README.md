@@ -138,6 +138,22 @@ Voici la liste des différents fichiers proposés dans FREEBSD-0 :
 			<td><b>LS.PAS</b></td>
 			<td>Cette commande permet d'afficher les fichiers d'un répertoire. Cette commande est équivalent de UNIX.</td>
 		</tr>				
+		<tr>
+			<td><b>MKTEMP.PAS</b></td>
+			<td>Cette commande permet de créer un fichier ou un répertoire temporaire.</td>
+		</tr>				
+		<tr>
+			<td><b>MV.PAS</b></td>
+			<td>Cette commande permet de déplacer un fichier.</td>
+		</tr>				
+		<tr>
+			<td><b>NL.PAS</b></td>
+			<td>Cette commande permet d'afficher du texte avec des numéros de ligne. Cette commande est inspiré de la commande nl de Linux.</td>
+		</tr>				
+		<tr>
+			<td><b>OD.PAS</b></td>
+			<td>Cette commande permet d'afficher le contenu d'un fichier selon un format spécifique. Cette commande est un équivalent de UNIX.</td>
+		</tr>				
 </table>
 
 <h2>Compilation</h2>
