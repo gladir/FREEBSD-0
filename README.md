@@ -162,6 +162,30 @@ Voici la liste des différents fichiers proposés dans FREEBSD-0 :
 			<td><b>READELF.PAS</b></td>
 			<td>Cette commande permet d'afficher des informations sur un ELF.</td>
 		</tr>				
+		<tr>
+			<td><b>SH.PAS</b></td>
+			<td>Cette commande permet de lancer l'interpréteur de commande UNIX.</td>
+		</tr>				
+		<tr>
+			<td><b>SLEEP.PAS</b></td>
+			<td>Cette commande permet d'attendre le nombre de secondes spécifiés. Cette commande est un équivalent de UNIX et LINUX.</td>
+		</tr>
+		<tr>
+			<td><b>SORT.PAS</b></td>
+			<td>Cette commande permet de trier une fichier texte ASCII et de retourner le résultat. Cette commande est un équivalent de la commande du DOS.</td>
+		</tr>	
+		<tr>
+			<td><b>SPLIT.PAS</b></td>
+			<td>Cette commande permet de séparer un fichier en plusieurs fichiers. Cette commande est un équivalent de UNIX.</td>
+		</tr>				
+		<tr>
+			<td><b>STAT.PAS</b></td>
+			<td>Cette commande permet d'afficher des informations sur des fichiers. Cette commande est un équivalent de UNIX et LINUX.</td>
+		</tr>
+		<tr>
+			<td><b>SUM.PAS</b></td>
+			<td>Cette commande permet d'afficher la sommation de chaque fichier.</td>
+		</tr>
 </table>
 
 <h2>Compilation</h2>
