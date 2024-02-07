@@ -111,6 +111,10 @@ Voici la liste des différents fichiers proposés dans FREEBSD-0 :
 			<td>Cette commande permet d'effectuer des recherches dans des fichiers. Cette commande est un équivalent de UNIX.</td>
 		</tr>	
 		<tr>
+			<td><b>GROUPS.PAS</b></td>
+			<td>Cette commande permet d'afficher les groupes d'un utilisateur.</td>
+		</tr>		
+		<tr>
 			<td><b>HALT.PAS</b></td>
 			<td>Cette commande permet d'arrêter l'ordinateur.</td>
 		</tr>	
